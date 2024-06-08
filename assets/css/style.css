@@ -32,9 +32,9 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*.header div ul {
     list-style-type: none;
-}
+}*/
 
 .header div ul li {
     display: inline-block;
@@ -43,7 +43,7 @@ body {
 
 a {
     color: #ffffff;
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
 p {
@@ -73,6 +73,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    height: 200px;
 }
 
 .benefits {
@@ -120,18 +121,21 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 .search-engine-optimization {
